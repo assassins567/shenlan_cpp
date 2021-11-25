@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kingmoon/Documents/C++_learning/shenlan/cha1/ex1.cpp
+iostream
+-
+cstdlib
+-
+vector
+-
+chrono
+-
+
